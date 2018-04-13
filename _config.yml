@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: antCai's Blog
+title: antCai
 subtitle:
 description: If you want to go fast, go alone. If you want to go far, go together.
 author: antCai
@@ -77,3 +77,8 @@ deploy:
   type: git
   repository: https://github.com/WeiJiunTsai/weijiuntsai.github.com.git
   branch: master
+
+  # Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: next
